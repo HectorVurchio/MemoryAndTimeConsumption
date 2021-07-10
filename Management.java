@@ -180,5 +180,16 @@ javac -d . *.java
 
 java memoryUsage.Management
 
+git init 
+
+git checkout -b main
+
+touch README.md
+
+touch .gitgnore
+
+git remote add origin https://github.com/HectorVurchio/MemoryAndTimeConsumption.git
+
+git push -u origin main
 
 */
