@@ -1,0 +1,2 @@
+This is a code that will be used along with the program Election2021.java
+to auto randomly generate the Elector data and measure the amount of heap memory consumption and time taken by the such program to fill an ArrayList with Elector objects collection.
